@@ -1,2 +1,0 @@
-# AuthorQuiz
-Created with CodeSandbox
